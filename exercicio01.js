@@ -1,4 +1,4 @@
-//O CODIGO NÃO ESTA IMPRIMINDO OS DADOS LIMPOS, MAS EU SEGUI EM FRENTE!! MICHELE DO FUTURO, SUA MISSÃO É DESCOBRIR O ERRO E ARRUMAR ESSE TREM, BOA SORTE!!!
+//O CODIGO NÃO ESTA IMPRIMINDO OS DADOS LIMPOS, MAS EU SEGUI EM FRENTE!! MICHELE DO FUTURO, SUA MISSÃO É DESCOBRIR O ERRO E ARRUMAR ESSE TREM, BOA
 
 
 // Você e seus amigos estavam fazendo um projeto da faculdade e encontraram um banco de dados com nomes científicos de animais que poderia ajudá - los, porém os dados estavam corrompidos.
